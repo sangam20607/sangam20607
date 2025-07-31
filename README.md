@@ -20,7 +20,7 @@
 ## 💡 Featured Projects
 
 - 📊 [Library-Management-System](https://github.com/sangam20607/Library-Management-System).
-- 🔐 [Password Manager](https://github.com/shabana21005/password-manager) – Securely store and manage your credentials  
+- 🔐 [Number-Guessing-Gam](https://github.com/sangam20607/-Number-Guessing-Game-). 
 - 🗂️ [Student Record Management System](https://github.com/shabana21005/Student-Record-Management-System) – Manage student data efficiently  
 
 ---
